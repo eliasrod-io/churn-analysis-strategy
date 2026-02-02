@@ -1,0 +1,4 @@
+pandas
+plotly
+nbformat>=5.2.0
+ipykernel
