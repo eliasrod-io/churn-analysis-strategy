@@ -37,6 +37,19 @@
   ## 🧠 Conclusão
   O estudo demonstra que o churn está concentrado em poucos fatores críticos. A análise oferece uma base sólida para priorização de iniciativas e tomada de decisão orientada por dados.
 
+  ## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/eliasrod-io/churn-analysis-strategy.git)
+
+2. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    Abra o arquivo Analise_Churn.ipynb no VS Code ou Jupyter Notebook e execute todas as células.
+
+3. Abra o arquivo Analise_Churn.ipynb no VS Code ou Jupyter Notebook e execute todas as células.
+
 </details>
 
 <br>
@@ -68,6 +81,20 @@
 
   ## 🧠 Conclusion
   The study demonstrates that churn is heavily concentrated in a few critical factors. This analysis offers a solid foundation for designing controlled experiments and fostering data-driven decision-making.
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/eliasrod-io/churn-analysis-strategy.git
+
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    Open Analise_Churn.ipynb in VS Code or Jupyter Notebook and run all cells.
+
+
+---
 
 </details>
 
